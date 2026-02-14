@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "レテノール",
+  "base_artist": "R Sound Design",
+  "createdAt": "2026-02-14T06:18:59.973240Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "レテノール",
+      "artist": "R Sound Design",
+      "has_synced": false,
+      "path": "select/01_レテノール_R_Sound_Design.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "レテノール",
+      "artist": "R Sound Design",
+      "has_synced": false,
+      "path": "select/pl_01_レテノール_R_Sound_Design.txt"
+    }
+  ]
+}
